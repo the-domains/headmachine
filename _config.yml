@@ -1,0 +1,14 @@
+layout_spectrum: 0.7332081557251513
+typography_spectrum: 0.7055471851490438
+color:
+  brandStrength: 0.013784912414848804
+  lightness: 0.6238328509498388
+  saturation: 0.569855701411143
+  rhythmicContrast: 0.6525190894026309
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: HeadMachine
